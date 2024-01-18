@@ -1,0 +1,40 @@
+html{
+    color-scheme: light dark;
+}
+body{
+    font-family: system-ui;
+    font: size 1.125em;
+    line-height: 1.6;
+    width: min(65ch,100%-4rem);
+    margin-inline: auto;
+}
+img {
+    width: 100px;
+    border-radius: 50px;
+    float:left;
+    margin-right: 20px;
+  }
+
+  .red {
+    color: red;
+    font-size: normal;
+    margin: 0!important;
+   
+  }
+  .intro{
+    margin:0;
+  }
+  .opening{
+    margin-left:200px;
+    
+  }
+  .experience{
+    margin-left:200px;
+  }
+  .education{
+    margin-left:200px;
+  }
+  .awards{
+    margin-left:200px;
+    display: inline-block;
+  }
